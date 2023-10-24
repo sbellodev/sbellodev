@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm a fullstack web/software **developer** from Spain, versatile with a strong foundation in both frontend and backend technologies.
 
-- 🔭 I'm working on apps in **React**, **JavaScript**, **C#**, **.NET**.
+- 🔭 I'm working on apps in **JavaScript**, **C#**, **.NET**.
 - 🌱 I'm learning **Software Architecture**, decision making and thought process to gain wider and abstract knowledge of coding.
 
 - 💬 Feel free to ask me about my personal coding projects in my free time. I also often tinker with various gadgets, build bots, create scrapers, or develop tools for my day-to-day needs.
