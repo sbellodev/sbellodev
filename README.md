@@ -16,4 +16,4 @@ I'm a fullstack web/software **developer** from Spain, versatile with a strong f
 
 - ⚡ Whether it's over a cup of coffee or a virtual chat, I look forward to getting to know and connecting with fellow enthusiasts.
 
-📫 Reach me at: [santibello.es](https://www.santibello.es) or [sbellodev@gmail.com](sbellodev@gmail.com)
+📫 Reach me at: [sbellodev@gmail.com](sbellodev@gmail.com)
