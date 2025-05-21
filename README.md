@@ -13,5 +13,5 @@ I'm a web / software **developer** from Spain with over 3 years of experience.
   
 - ⚡ When I'm not coding, I indulge my passion for mathematics, design, and reading as hobbies. Whether it's over a cup of coffee or a virtual chat, I look forward to getting to know and connecting with fellow enthusiasts.
 
-📫 Reach me at: [sbellodev@gmail.com](sbellodev@gmail.com) and [santibello.es](https://www.santibello.es)
+📫 Reach me at: [sbellodev@gmail.com](sbellodev@gmail.com) and [santibello.com](https://www.santibello.com)
 
