@@ -8,7 +8,6 @@ I'm a web / software **developer** from Spain with over 3 years of experience.
   - [BoomerYTDownloader](https://github.com/sbellodev/boomerytdownload) - From Youtube Playlists to MP3 files in .NET. 
   - [Animal Browsing](https://github.com/sbellodev/animalbrowsing) - Website that shows lists and info about items of Animal Crossing: New Horizons.
   - [Michiapp](https://github.com/sbellodev/michiapp) - Website tinder-like to meet and know other pet-owners.
-  - [Finance bot](https://github.com/sbellodev/finbot) - Telegram bot that alerts when to buy or sell.
   - [Tweet API Scraper](https://github.com/sbellodev/tweetapi) - Python script that scraps someone tweets and saves into a file.
   - [Blog](https://github.com/sbellodev/blog) - Blog made in Jekyll, where I track whatever issues or questions I get a lot of times.
   
